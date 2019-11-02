@@ -1,8 +1,7 @@
 language:
   python
 before_script:
-  gem install awesome_bot
-  gem install mdl
+  gem install awesome_bot mdl
 script:
   awesome_bot README.md topics/*.md --skip-save-results
   mdl README.md topics/*
