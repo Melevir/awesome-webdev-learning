@@ -1,7 +1,8 @@
-language:
-  python
+language: python
+python:
+  - "3.6"
 before_script:
-  gem install awesome_bot mdl
+  - gem install awesome_bot mdl
 script:
-  awesome_bot README.md topics/*.md --skip-save-results
-  mdl README.md topics/*
+  - awesome_bot README.md topics/*.md --skip-save-results
+  - mdl README.md topics/*
