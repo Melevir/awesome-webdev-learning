@@ -11,4 +11,4 @@ All resources are free, all are for beginners.
 - [Git](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/git.md)
 - [SQL](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/sql.md)
 - [Python](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/python.md)
-- Console
+- [Command line](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/cmd.md)
