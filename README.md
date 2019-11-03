@@ -9,6 +9,6 @@ All resources are free, all are for beginners.
 ## Table of contents
 
 - [Git](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/git.md)
-- SQL
+- [SQL](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/sql.md)
 - Python
 - Console
