@@ -22,6 +22,8 @@
 - [opensource.guide](https://opensource.guide/) – set of articles about open source (en).
 - [An Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
   – series of tutorials from Digital Ocean (en).
+- [GitHub Learning Lab](https://lab.github.com/) – set of practical
+  tutorials from GitHub (en).
 
 ## First contributions repos
 
