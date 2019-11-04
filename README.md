@@ -14,9 +14,9 @@ All resources are free.
   - [Python](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/python.md)
   - [Command line](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/cmd.md)
 - Advanced
+  - [Open source](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/opensource.md)
   - More Python
   - Style guides/code style
   - Unit testing
-  - Open source
   - Web API design
   - Team work
