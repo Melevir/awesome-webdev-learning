@@ -18,8 +18,10 @@
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
   – list of awesome beginner-friendly projects (en).
 - [Beginners to Open Source](https://opensource.com/resources/beginners-open-source)
-  – collection of articles is about what it's like to get started in open source (en).
-- [opensource.guide](https://opensource.guide/) – set of articles about open source (en).
+  – collection of articles is about what it's like to get started in
+  open source (en).
+- [opensource.guide](https://opensource.guide/) – set of articles about
+  open source (en).
 - [An Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
   – series of tutorials from Digital Ocean (en).
 - [GitHub Learning Lab](https://lab.github.com/) – set of practical
@@ -27,6 +29,8 @@
 
 ## First contributions repos
 
-- [devncode/first-contributions](https://github.com/devncode/first-contributions) (en).
-- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) (en).
+- [devncode/first-contributions](https://github.com/devncode/first-contributions)
+  (en).
+- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+  (en).
 
