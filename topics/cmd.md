@@ -38,3 +38,5 @@
   – set of articles on command libe basics (en).
 - [Really friendly command line intro](https://hellowebbooks.com/learn-command-line/)
   – free ebook on cmd basics (en).
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+  – more advanced guide on cmd (en).

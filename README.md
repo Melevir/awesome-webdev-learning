@@ -7,7 +7,7 @@ Mostly for python web-developers.
 
 All resources are free.
 
-## Table of contents
+## Contents
 
 - Beginners
   - [Git](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/git.md)
@@ -17,7 +17,7 @@ All resources are free.
 - Advanced
   - [Open source](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/opensource.md)
   - [Style guides/code style](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/style.md)
+  - [Unit testing](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/unit_testing.md)
   - More Python
-  - Unit testing
   - Web API design
   - Team work
