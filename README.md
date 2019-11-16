@@ -18,6 +18,6 @@ All resources are free.
   - [Open source](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/opensource.md)
   - [Style guides/code style](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/style.md)
   - [Unit testing](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/unit_testing.md)
+  - [Web API design](https://github.com/Melevir/awesome-webdev-learning/blob/master/topics/api.md)
   - More Python
-  - Web API design
   - Team work
