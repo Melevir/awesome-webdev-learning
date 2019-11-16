@@ -29,7 +29,8 @@
 - [NationalBankBelgium/REST-API-Design-Guide](https://github.com/NationalBankBelgium/REST-API-Design-Guide/wiki)
   – REST API Design Guide of the National Bank of Belgium (en).
 - [VictorianGovernment/api-design-standards](https://github.com/VictorianGovernment/api-design-standards/blob/master/api-standards.md)
-  – Design Standards for Whole of Victorian Government Application Programming Interfaces (en).
+  – Design Standards for Whole of Victorian Government
+  Application Programming Interfaces (en).
 
 ## Nice API examples
 
