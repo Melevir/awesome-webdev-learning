@@ -11,7 +11,7 @@
   – basic intro to testing in Python (en).
 - [Getting Started With Testing in Python](https://realpython.com/python-testing/)
   – detailed intro to Python testing with lots of examples (en).
-- [Improve Your Python: Understanding Unit Testing](https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/)
+- [Improve Your Python: Understanding Unit Testing](https://web.archive.org/web/20201111200008/https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/)
   – great intro article on python testing (en).
 
 ## Pytest and other tools
